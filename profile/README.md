@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-This is the Open Terraform Code Organisation.
+This is a OpenTofu Code Organisation. In this organisatin you will find reusable code (eg. tofu modules) which you can use to deploy your infrastructure.
 <!--
 
 **Here are some ideas to get you started:**
