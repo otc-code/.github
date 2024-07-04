@@ -4,7 +4,7 @@
 
 👩‍💻 [Dokumentation and Guidelines](https://github.com/otc-code/otc-code-docs/)
 
-🌈 Contribution: [See  CONTRIBUTING.md](https://github.com/otc-code/.github/blob/main/CONTRIBUTING.md)
+🌈 [Contribution Guideline](https://github.com/otc-code/.github/blob/main/CONTRIBUTING.md)
 <!--
 
 **Here are some ideas to get you started:**
