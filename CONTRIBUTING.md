@@ -1,4 +1,4 @@
-# Welcome to CNA contributing guide
+# Welcome to otc-code contributing guide
 
 Thank you for investing your time in contributing to our project!
 
