@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-This is a OpenTofu Code Organisation. In this organisatin you will find reusable code (eg. tofu modules) which you can use to deploy your infrastructure.
+🙋‍♀️ This is a OpenTofu Code Organisation. In this organisation you will find reusable code (eg. tofu modules) which you can use to deploy your infrastructure in the cloud and on OnPremise.
+
+👩‍💻 https://github.com/otc-code/otc-code-docs/blob/main/README.md
+
 <!--
 
 **Here are some ideas to get you started:**
