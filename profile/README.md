@@ -2,9 +2,9 @@
 
 🙋‍♀️ This is a OpenTofu Code Organisation. In this organisation you will find reusable code (eg. tofu modules) which you can use to deploy your infrastructure in the cloud and on OnPremise.
 
-👩‍💻 https://github.com/otc-code/otc-code-docs/
+👩‍💻 [Dokumentation and Guidelines](https://github.com/otc-code/otc-code-docs/)
 
-🌈 Contribution: See  
+🌈 Contribution: [See  CONTRIBUTING.md](https://github.com/otc-code/.github/blob/main/CONTRIBUTING.md)
 <!--
 
 **Here are some ideas to get you started:**
