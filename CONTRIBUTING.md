@@ -10,7 +10,7 @@ If you spot a problem search if an issue already exists. If a related issue does
 
 If you find an issue to work on, you are welcome to open a PR with a fix from a forked repository.
 
-### Make Changes
+### Make changes
 
 If you found a solution for a problem or want to contribute new features, please fork the repository to your user account, conduct the changes and keep your fork up-to-date with our upstream repository.
 
