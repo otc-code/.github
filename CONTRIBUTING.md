@@ -14,6 +14,15 @@ If you find an issue to work on, you are welcome to open a PR with a fix from a 
 
 If you found a solution for a problem or want to contribute new features, please fork the repository to your user account, conduct the changes and keep your fork up-to-date with our upstream repository.
 
+Please use [Conventional Commit Messages](https://www.conventionalcommits.org/en/v1.0.0/) when making changes:
+| Commit message                                                                                                                                                                                   | Release type                                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------- |
+| `fix(pencil): stop graphite breaking when too much pressure applied`                                                                                                                             | ~~Patch~~ Fix Release                                                                                           |
+| `feat(pencil): add 'graphiteWidth' option`                                                                                                                                                       | ~~Minor~~ Feature Release                                                                                       |
+| `perf(pencil): remove graphiteWidth option`<br><br>`BREAKING CHANGE: The graphiteWidth option has been removed.`<br>`The default graphite width of 10mm is always used for performance reasons.` | ~~Major~~ Breaking Release <br /> (Note that the `BREAKING CHANGE: ` token must be in the footer of the commit) |
+
+
+
 ### Pull Request
 
 When you're finished with the changes, create a pull request, also known as a PR against our upstream repository.
