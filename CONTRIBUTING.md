@@ -43,4 +43,4 @@ What we will do:
 
 ### Your PR is merged!
 
-:tada: Congratulations, you have made your first contrinbution.
+:tada: Congratulations, you have made your first contribution.
